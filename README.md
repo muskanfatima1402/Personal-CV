@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint
+    " content="width=device-width, initial-scale=1.0">
+    <title>Personal CV</title>
+</head>
+<h3>Contact Information:</h3>
+Muskan Fatima 
+<ul><li><a href="https://www.linkedin.com/in/muskan-fatima-3a5392377">linkedin</a></li>
+<li><a href="muskanlatif2003@gmail.com">gmail</a></li>
+<li><a href="03212850876">Contact</a></li></ul>
+<h3>Eductaion:</h3>
+<ul><li>Matriculation</li>
+<li>Intermediate 2021-2022</li>
+<li>Diploma in Fashion Designing 2022-2023</li></ul>
+<h3>Skills:</h3>
+<ul><li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Teamwork</li>
+<li>Problem Solving</li></ul>
+<h3>Experience:</h3>
+<ol><li><h4>Job Title:</li></h4>Junior Web Developer</ol>
+<ol><li><h4>Organization</h4></li>Saylani Mass IT</ol>
+<ol><li><h4>Duration</h4></li>July 2025 - Present</ol>
+<h3>Projects:</h3>
+<ul><li><h4>Personal Portfolio Website</h4></li></ul>
+  <p>A website built from scratch to showcase my skills and projects and includes a contact form and a blog section</p>
+<body>
+    
+</body>
+</html>
